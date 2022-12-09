@@ -1,4 +1,7 @@
-
+@font-face {
+  font-family: minhafonte ;
+  src: url(jai.ttf);
+}
 
 body{
     background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(19, 50, 134));
@@ -234,7 +237,7 @@ l li{
   font-size: 30px;
   height: 50px;
   width: 50px;
-  background:  linear-gradient(to right, rgb(5, 12, 26), rgb(146, 27, 146)); ;
+  background:  linear-gradient(to right, rgb(39, 101, 224), rgb(131, 15, 119)); ;
   line-height: 60px;
   border-radius: 50%;
   margin: 0 15px;
